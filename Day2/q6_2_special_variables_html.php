@@ -48,6 +48,6 @@ $marks5 = $_POST['hin'];
 $total= $marks1 + $marks2 + $marks3 + $marks4 + $marks5 ;
 echo "Total marks obtained : $total <br>";
 echo "Total marks :500 <br>";
-$Percentage = ($total/600)*100;
+$Percentage = ($total/500)*100;
 echo "percentage : $Percentage %";
 ?>
